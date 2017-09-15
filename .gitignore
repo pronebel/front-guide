@@ -4,6 +4,7 @@ dist/
 dests/prod/
 dests/test/
 .idea/
+sites/
 mochawesome-reports
 npm-debug.log
 将删除 .gitignore
