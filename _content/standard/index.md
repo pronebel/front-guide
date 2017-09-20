@@ -10,6 +10,12 @@
 - [Email 规范](./email.html)
 - [JavaScript 规范](./javascript.html)
 
+## 规范执行
+ 
+- 工具: [eslint](http://www.jianshu.com/p/2bcdce1dc8d4)
+- 规范: [基于Standard](https://standardjs.com/readme-zhcn.html)
+    
+
 ## 流程规范
 
 - [前端项目支持规范](./workflow/support.html)
