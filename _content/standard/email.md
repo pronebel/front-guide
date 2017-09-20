@@ -1,8 +1,6 @@
 # HTML Email 规范
 
 - pubdate: 2013-4-24 11:48:51
-- tags: html, email, standard
-- status: draft
 
 ----------------
 

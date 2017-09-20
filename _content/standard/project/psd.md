@@ -1,8 +1,6 @@
 # PSD 交付规范
 
 - pubdate: 2013-6-18 15:48:51
-- tags: psd, standard
-- status: draft
 
 ----------------
 

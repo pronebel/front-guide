@@ -1,6 +1,6 @@
 {
     "source": "_content",
-    "output": "sites",
+    "output": "_sites",
     "theme": "_themes/one",
     "permalink": "{{directory}}/{{filename}}.html",
     "writers": [
@@ -26,10 +26,6 @@
         {
             "link": "standard/index",
             "title": "规范"
-        },
-        {
-            "link": "fed/index",
-            "title": "FED"
         }
     ],
     "footer": "By Nebel"

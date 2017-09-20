@@ -1,8 +1,6 @@
 # JavaScript 规范
 
-- pubdate: 2013-04-18
-- tags: javascript, standard
-- status: draft
+
 
 JavaScript 规范比较简单。
 

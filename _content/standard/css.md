@@ -1,8 +1,6 @@
 # CSS 规范 - 代码风格
 
 - pubdate: 2013-4-24 12:04:58 
-- tags: css, standard
-- status: draft
 
 ----------------
 

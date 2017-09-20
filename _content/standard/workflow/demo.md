@@ -1,9 +1,6 @@
 # 快速开发流程 #
 
 - pubdate: 2013-6-18 16:20:12
-- tags: html, standard
-- status: draft
-
 ----------------
 
 > Just do it.

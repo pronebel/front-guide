@@ -1,8 +1,7 @@
 # HTML 规范
 
 - pubdate: 2013-4-23 16:56:53
-- tags: html, standard
-- status: draft
+
 
 ----------------
 

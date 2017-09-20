@@ -1,8 +1,7 @@
 # General 规范
 
 - pubdate: 2013-4-24 12:04:58 
-- tags: standard
-- status: draft
+
 
 ----------------
 
