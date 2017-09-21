@@ -292,19 +292,12 @@ a.title-permalink:hover {
   color: #5784bf;
   background-color: #eee;
 }
-.document:after {
-  content: "❦";
-  display: block;
-  text-align: center;
-  font-size: 36px;
-  color: #d14;
-}
 
 .footer {
   margin: 0 auto;
   max-width: 500px;
   *width: 500px;
-  color: #555;
+  color: #555;text-align: center;
   color: rgba(0, 0, 0, 0.5);
   font-size: 15px;
   line-height: 1.3;

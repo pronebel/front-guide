@@ -15,14 +15,7 @@
             "link": "index",
             "title": "首页"
         },
-        {
-            "link": "wiki/index",
-            "title": "Wiki"
-        },
-        {
-            "link": "sites",
-            "title": "酷站"
-        },
+
         {
             "link": "standard/index",
             "title": "规范"
